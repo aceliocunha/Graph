@@ -30,8 +30,3 @@ Cada notebook contém:
 - Treinamento e validação
 - Visualização da performance
 
-## Contribuição
-
-Este repositório está em constante atualização. Sinta-se livre para sugerir modelos, propor melhorias ou contribuir com PRs.
-
-> Projeto acadêmico com fins educacionais e de pesquisa.
